@@ -1,0 +1,5 @@
+flutter clean -v
+flutter pub get -v
+flutter build web --release -v
+cd build\web
+python -m http.server 8000

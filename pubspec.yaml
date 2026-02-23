@@ -1,0 +1,33 @@
+
+name: siddur_flutter_supabase
+description: Siddur app (Mincha) with Supabase (remote) + assets (local) fallback
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.3.4
+
+  # Optional: for TTS or providers in later steps
+  # flutter_tts: ^3.8.5
+  # provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/prayers/shacharit.txt
+    - assets/prayers/mincha.txt
+    - assets/prayers/arvit.txt
+    - assets/prayers/birkat_hamazon.txt
+    - assets/prayers/birkat_meaen_3.txt
+    - assets/prayers/birkot_hanehenin.txt
+    - assets/images/Lamnatzeach_Menorah.png
