@@ -81,7 +81,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
               const SizedBox(height: 16),
               const Text(
-                'DEBUG VERSION 0.1.0 - בדיקה',
+                'DEBUG VERSION 1.0.2',
                 textAlign: TextAlign.center,
 		style: TextStyle(color: Colors.red, fontWeight: FontWeight.bold),
               ),
