@@ -3,3 +3,5 @@ flutter pub get -v
 flutter build web --release -v
 cd build\web
 python -m http.server 8000
+
+git commit -m "Version 1.0.2: ^Cding fonts and fixing bugs"

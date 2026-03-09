@@ -14,9 +14,9 @@ class ExpandableImage extends StatelessWidget {
             // פתיחת התמונה ב־Dialog עם InteractiveViewer
             showDialog(
               context: context,
-              barrierColor: Colors.transparent, // מסיר אפקט אפור
+              barrierColor: Colors.transparent, // מסיר אפקט אפור 
               builder: (context) => Dialog(
-                backgroundColor: Colors.transparent,
+                backgroundColor: Colors.white, // <-- צבע לבן transparent - שקוף
                 insetPadding: EdgeInsets.zero,
                 child: GestureDetector(
                   onTap: () => Navigator.pop(context),

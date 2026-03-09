@@ -77,6 +77,10 @@ class _PrayerScreenState extends State<PrayerScreen> {
         sections: sections,
         baseFontSize: fontSize,
       ),
+        floatingActionButton: FloatingActionButton(onPressed:() {
+    _scrollController.animateTo(0,duration: const Duration(milliseconds: 400),curve: Curves.easeOut,);},
+  child: const Icon(Icons.arrow_upward),
+      ),
     );
   }
 }
