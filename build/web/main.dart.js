@@ -43133,7 +43133,7 @@ q=A.auO(r,B.UL)
 s=A.a4(new A.a5(p,new A.an4(this,a),A.Z(p).i("a5<1,f>")),t.l7)
 s.push(B.Pr)
 s.push(A.azU(B.FF,B.zD,new A.an5(a)))
-return A.JG(A.awf(q,new A.ca(B.ju,A.av4(A.c([B.za,new A.K9(1,B.nF,A.avO(s,r),r),B.za,B.UO],t.E),B.bu,B.bI,B.ky),r),r,r),B.T)}}
+return A.JG(A.awf(q,new A.ca(B.ju,A.av4(A.c([B.za,new A.K9(1,B.nF,A.avO(s,r),r),B.za,B.UN],t.E),B.bu,B.bI,B.ky),r),r,r),B.T)}}
 A.an6.prototype={
 $0(){var s=this.b.h(0,"times")
 if(s==null){s=t.z
@@ -92358,8 +92358,8 @@ B.my=new A.a_C(0,"pixel")
 B.ch=new A.nV(3,"experimentalWebParagraph")
 B.Cp=new A.xf(null,null,null,null,null,null,null)
 B.Cq=new A.xg(null,null,null,null,null,null)
-B.UN=new A.iy("\u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05d8\u05e2\u05d9\u05e0\u05ea \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",null,null,null,null,null,null,null,null)
-B.Cr=new A.ka(B.V,null,null,B.UN,null)
+B.UO=new A.iy("\u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05d8\u05e2\u05d9\u05e0\u05ea \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",null,null,null,null,null,null,null,null)
+B.Cr=new A.ka(B.V,null,null,B.UO,null)
 B.Y9=new A.ajp(0,"material")
 B.Cy=new A.xl(null)
 B.iZ=new A.ka(B.V,null,null,B.Cy,null)
@@ -94809,7 +94809,7 @@ B.UJ=new A.dx(B.Sv,B.Rs,B.Sw,B.SY,B.R9,B.Rh,B.RL,B.ST,B.RY,B.Tk,B.QE,B.QW,B.Th,B
 B.zD=new A.iy("\u05d6\u05de\u05e0\u05d9 \u05d4\u05d9\u05d5\u05dd",null,null,null,null,null,null,null,null)
 B.UL=new A.iy("\u05e1\u05d9\u05d3\u05d5\u05e8 \u05e9\u05e4\u05ea\u05d9\u05d9 \u05ea\u05e4\u05ea\u05d7",null,null,null,null,null,null,null,null)
 B.UM=new A.iy("\u05d6\u05de\u05e0\u05d9 \u05e9\u05d1\u05ea",null,B.zB,B.c4,null,null,null,null,null)
-B.UO=new A.iy("\xa9Ariel E VERSION 1.0.14",null,B.zA,B.c4,null,null,null,null,null)
+B.UN=new A.iy("Ariel & Avihay E VERSION 1.0.15\xa9",null,B.zA,B.c4,null,null,null,null,null)
 B.Y8=new A.aio(0,"system")
 B.LA=new A.i(0.056,0.024)
 B.LP=new A.i(0.108,0.3085)
