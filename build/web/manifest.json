@@ -1,6 +1,6 @@
 {
-    "name": "siddur_flutter_supabase",
-    "short_name": "siddur_flutter_supabase",
+    "name": "סידור שפתיי תפתח",
+    "short_name": "סידור",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
